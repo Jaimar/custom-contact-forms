@@ -1097,23 +1097,23 @@ msgstr "Dit is geen geldig telefoonnummer."
 
 #: ../classes/class-ccf-form-renderer.php:59
 msgid "This phone number is not 10 digits"
-msgstr ""
+msgstr "Dit telefoonnummer is niet 10 cijfers"
 
 #: ../classes/class-ccf-form-renderer.php:63
 msgid "This is not an allowed file extension"
-msgstr ""
+msgstr "Deze bestandstype is niet toegelaten."
 
 #: ../classes/class-ccf-form-renderer.php:64
 msgid "This file is bigger than"
-msgstr ""
+msgstr "Het bestand is groter dan"
 
 #: ../classes/class-ccf-form-renderer.php:65
 msgid "An unknown error occured."
-msgstr ""
+msgstr "Een onbekende fout is opgetreden."
 
 #: ../classes/class-ccf-submission-cpt.php:41
 msgid "Form Submissions"
-msgstr ""
+msgstr "Formulier Inzendingen"
 
 #: ../classes/class-ccf-upgrader.php:37
 msgid ""
@@ -1121,60 +1121,63 @@ msgid ""
 "you might need to upgrade your database to use your old forms. Please backup "
 "your database before running the upgrade."
 msgstr ""
+"Heeft u net een upgrade gedaan van Custom Contact Forms van voor versie 6.0? Indien ja, "
+"dan moet je mogelijk eerst uw database upgraden voor het gebruik van uw oude formulieren. Gelieve eerst "
+"een backup te nemen van uw databse voor de upgrade."
 
 #: ../classes/class-ccf-upgrader.php:38
 msgid "Upgrade"
-msgstr ""
+msgstr "Upgrade"
 
 #: ../classes/class-ccf-upgrader.php:39
 msgid "Dismiss"
-msgstr ""
+msgstr "Afwijzen"
 
 #: ../classes/class-ccf-upgrader.php:61
 msgid "Database update complete."
-msgstr ""
+msgstr "Database update volledig."
 
 #: ../classes/class-ccf-widget.php:17
 msgid "Add a custom contact form to a sidebar."
-msgstr ""
+msgstr "Voeg een Custom contact formulier toe aan een zijmenu"
 
 #: ../classes/class-ccf-widget.php:18
 msgid "Custom Contact Form"
-msgstr ""
+msgstr "Custom Contact Form"
 
 #: ../classes/class-ccf-widget.php:64
 msgid "Title:"
-msgstr ""
+msgstr "Titel:"
 
 #: ../classes/class-ccf-widget.php:71
 msgid "Choose a form:"
-msgstr ""
+msgstr "Kies een formulier:"
 
 #: ../classes/class-ccf-widget.php:80
 msgid "Untitled"
-msgstr ""
+msgstr "Geen titel"
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:42
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:48
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:108
 msgid "Invalid comment ID."
-msgstr ""
+msgstr "Ongeldig commentaar ID."
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:52
 msgid "Sorry, you are not allowed to delete this comment."
-msgstr ""
+msgstr "Sorry, u bent niet toegelaten om deze commentaar te verwijderen."
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:58
 msgid "The comment cannot be deleted."
-msgstr ""
+msgstr "Deze commentaar kan niet verwijderd worden."
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:62
 msgid "Permanently deleted comment"
-msgstr ""
+msgstr "Commentaar permanent verwijderd."
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-comments.php:65
 msgid "Deleted comment"
-msgstr ""
+msgstr "Commentaar verwijderd"
 
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-customposttype.php:33
 #: ../vendor/wp-api/wp-api/lib/class-wp-json-meta.php:29
